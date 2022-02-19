@@ -227,6 +227,7 @@ nav ul li a{
 }
 .divider{
   margin-left: 570px;
+  margin-bottom: 15px;
 }
 .container{
   background-image: url(y.jpg);
@@ -315,21 +316,24 @@ nav ul li a{
   height: 100%;
   object-fit: cover ;
 }
-.contact-area{
+.information{
   background-color: cornsilk;
 }
 .contact-left{
   float: left;
   width: 500px;
-  margin-left: 20px;
-  margin-top: 20px;
-  
+  margin-left: 50px;
+  margin-top: 20px; 
+}
+.contact-left h1 {
+  text-transform: capitalize;
 }
 .contact-left .contact{
   color: #c49b66;
+  text-transform: capitalize;
 }
 .divider1{
-  margin-left:  80px;
+  margin-left: 20px;
 }
 .contact-right{
   width: 500px;
@@ -345,8 +349,9 @@ nav ul li a{
     height: 50px;
     padding: 10px;
     border-radius: 10px;
-    background-color: blanchedalmond;
+    background-color: antiquewhite;
 }
+
 .btn-boxx{
   
 	margin-left: 360px;
