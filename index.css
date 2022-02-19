@@ -66,6 +66,9 @@ nav ul li a{
 	margin-top: -4px;
 	font-family:'Lobster', cursive;
 }
+.wave{
+  width: 100%;
+}
 .btn-box{
     border: solid 2px #ddd;
 	background: transparent;
